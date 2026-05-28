@@ -1,0 +1,2 @@
+customer_id,signup_date,last_login_date,country,age,monthly_spend,num_support_tickets,is_active,churned
+c001,2024-01-01,2024-03-20,US,34,99.99,3,true,false

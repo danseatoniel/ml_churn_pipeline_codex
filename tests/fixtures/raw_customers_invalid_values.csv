@@ -1,0 +1,4 @@
+customer_id,signup_date,last_login_date,country,age,plan_type,monthly_spend,num_support_tickets,is_active,churned
+c001,2024-01-01,2024-03-20,US,121,pro,99.99,3,true,false
+c002,2024-01-01,2024-03-20,GB,45,basic,-1,0,yes,no
+c003,2024-01-01,2024-03-20,IN,28,vip,199.99,-2,1,0

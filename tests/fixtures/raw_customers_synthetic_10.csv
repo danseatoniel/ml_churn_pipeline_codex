@@ -1,0 +1,11 @@
+customer_id,signup_date,last_login_date,country,age,plan_type,monthly_spend,num_support_tickets,is_active,churned
+c1001,2023-01-15,2024-04-01,US,31,free,0.00,0,true,false
+c1002,2022-11-03,2024-03-28,GB,42,basic,24.99,1,yes,false
+c1003,2021-06-20,2024-02-15,DE,37,pro,89.50,4,1,no
+c1004,2024-01-05,2024-01-25,IN,29,enterprise,210.00,7,true,false
+c1005,2020-09-12,2023-12-30,CA,55,basic,19.99,0,false,true
+c1006,2023-08-01,,AU,24,free,,2,yes,false
+c1007,2022-02-14,2024-03-01,FR,,pro,120.00,3,1,0
+c1008,2021-12-01,2024-01-10,BR,46,basic,34.99,6,no,true
+c1009,2024-02-20,2024-03-18,JP,33,enterprise,250.75,5,true,false
+c1010,2019-05-30,2023-11-11,MX,61,free,0.00,1,false,true

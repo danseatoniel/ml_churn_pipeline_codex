@@ -1,0 +1,2 @@
+customer_id,signup_date,last_login_date,country,age,plan_type,monthly_spend,num_support_tickets,is_active,churned
+c_na_001,2024-01-01,2024-03-15,NA,39,basic,29.99,1,true,false
